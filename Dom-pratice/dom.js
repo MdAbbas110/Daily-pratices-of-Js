@@ -17,3 +17,4 @@
  so we do Array.from(selected element)
  it will convert it to the array list
  */
+//learn about the dom
